@@ -1,0 +1,8 @@
+{
+  "name": "modernAphrodite",
+  "version": "1.0.0",
+  "description": "node shopify app",
+  "main": "index.js",
+  "author": "Dane Louis Bratz",
+  "license": "MIT"
+}
